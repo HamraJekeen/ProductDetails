@@ -1,5 +1,4 @@
-{
-  "chains": [
+ [
     {
       "id": "chain1",
       "title": "DAINTY LOVE STONE NECKLACE",
@@ -83,9 +82,8 @@
       "price": "LKR 1250.00",
       "image": "images/chain12.jpg",
       "description": "This is a beautiful product with high-quality materials and craftsmanship."
-    }
-  ],
-  "rings": [
+    },
+  
     {
       "id": "ring1",
       "title": "GOLDEN LOVE INTERLOCK RING",
@@ -142,8 +140,7 @@
       "image": "images/ring8.jpg",
       "description": "This is a beautiful product with high-quality materials and craftsmanship."
     }
-  ],
-  "earrings": [
+  ,
     {
       "id": "earring1",
       "title": "DAINTY STONE STUD EARRINGS",
@@ -200,35 +197,4 @@
       "image": "images/earring8.jpg",
       "description": "This is a beautiful product with high-quality materials and craftsmanship."
     }
-  ],
-  "topSelling": [
-    {
-      "id": "chain1",
-      "title": "DAINTY LOVE STONE NECKLACE",
-      "price": "LKR 780.00",
-      "image": "images/chain1.jpg",
-      "description": "This is a beautiful product with high-quality materials and craftsmanship."
-    },
-    {
-      "id": "earring1",
-      "title": "DAINTY STONE STUD EARRINGS",
-      "price": "LKR 890.00",
-      "image": "images/earring1.jpg",
-      "description": "This is a beautiful product with high-quality materials and craftsmanship."
-    },
-    {
-      "id": "earring2",
-      "title": "DIAMOND STONE STUD EARRING",
-      "price": "LKR 720.00",
-      "image": "images/earring2.jpg",
-      "description": "This is a beautiful product with high-quality materials and craftsmanship."
-    },
-    {
-      "id": "ring1",
-      "title": "GOLDEN LOVE INTERLOCK RING",
-      "price": "LKR 1450.00",
-      "image": "images/ring1.jpg",
-      "description": "This is a beautiful product with high-quality materials and craftsmanship."
-    }
   ]
-}
