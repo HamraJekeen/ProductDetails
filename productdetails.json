@@ -1,200 +1,198 @@
- [
-    {
-      "id": "chain1",
-      "title": "DAINTY LOVE STONE NECKLACE",
-      "price": "LKR 780.00",
-      "image": "images/chain1.jpg",
-      "description": "This is a beautiful product with high-quality materials and craftsmanship."
-    },
-    {
-      "id": "chain2",
-      "title": "ENCHANTED LOVE NECKLACE",
-      "price": "LKR 1410.00",
-      "image": "images/chain2.jpg",
-      "description": "This is a beautiful product with high-quality materials and craftsmanship."
-    },
-    {
-      "id": "chain3",
-      "title": "TEAR OF LOVE NECKLACE",
-      "price": "LKR 1500.00",
-      "image": "images/chain3.jpg",
-      "description": "This is a beautiful product with high-quality materials and craftsmanship."
-    },
-    {
-      "id": "chain4",
-      "title": "TEAR DROP NECKLACE",
-      "price": "LKR 1250.00",
-      "image": "images/chain4.jpg",
-      "description": "This is a beautiful product with high-quality materials and craftsmanship."
-    },
-    {
-      "id": "chain5",
-      "title": "PEARL STONE NECKLACE",
-      "price": "LKR 1310.00",
-      "image": "images/chain5.jpg",
-      "description": "This is a beautiful product with high-quality materials and craftsmanship."
-    },
-    {
-      "id": "chain6",
-      "title": "WHITE LOVE NECKLACE",
-      "price": "LKR 1840.00",
-      "image": "images/chain7.jpg",
-      "description": "This is a beautiful product with high-quality materials and craftsmanship."
-    },
-    {
-      "id": "chain7",
-      "title": "SAPPHIRE STONE NECKLACE",
-      "price": "LKR 899.00",
-      "image": "images/chain6.jpg",
-      "description": "This is a beautiful product with high-quality materials and craftsmanship."
-    },
-    {
-      "id": "chain8",
-      "title": "FLORALED STUD INTERLOCK",
-      "price": "LKR 999.00",
-      "image": "images/chain8.jpg",
-      "description": "This is a beautiful product with high-quality materials and craftsmanship."
-    },
-    {
-      "id": "chain9",
-      "title": "RUBY STONE NECKLACE",
-      "price": "LKR 1110.00",
-      "image": "images/chain9.jpg",
-      "description": "This is a beautiful product with high-quality materials and craftsmanship."
-    },
-    {
-      "id": "chain10",
-      "title": "PEARL STONE NECKLACE",
-      "price": "LKR 1710.00",
-      "image": "images/chain10.jpg",
-      "description": "This is a beautiful product with high-quality materials and craftsmanship."
-    },
-    {
-      "id": "chain11",
-      "title": "EMERALD STONE NECKLACE",
-      "price": "LKR 1530.00",
-      "image": "images/chain11.jpg",
-      "description": "This is a beautiful product with high-quality materials and craftsmanship."
-    },
-    {
-      "id": "chain12",
-      "title": "ANCIENT DROPED NECKLACE",
-      "price": "LKR 1250.00",
-      "image": "images/chain12.jpg",
-      "description": "This is a beautiful product with high-quality materials and craftsmanship."
-    },
-  
-    {
-      "id": "ring1",
-      "title": "GOLDEN LOVE INTERLOCK RING",
-      "price": "LKR 1450.00",
-      "image": "images/ring1.jpg",
-      "description": "This is a beautiful product with high-quality materials and craftsmanship."
-    },
-    {
-      "id": "ring2",
-      "title": "PLATINUMED PROMISED RING",
-      "price": "LKR 1990.00",
-      "image": "images/ring2.jpg",
-      "description": "This is a beautiful product with high-quality materials and craftsmanship."
-    },
-    {
-      "id": "ring3",
-      "title": "EMERALD GOLDEN INTERLOCK RING",
-      "price": "LKR 1490.00",
-      "image": "images/ring3.jpg",
-      "description": "This is a beautiful product with high-quality materials and craftsmanship."
-    },
-    {
-      "id": "ring4",
-      "title": "PLATINUM LOVE PROMISE RING",
-      "price": "LKR 1780.00",
-      "image": "images/ring4.jpg",
-      "description": "This is a beautiful product with high-quality materials and craftsmanship."
-    },
-    {
-      "id": "ring5",
-      "title": "FEATHER STONE ELEGANT RING",
-      "price": "LKR 1380.00",
-      "image": "images/ring5.jpg",
-      "description": "This is a beautiful product with high-quality materials and craftsmanship."
-    },
-    {
-      "id": "ring6",
-      "title": "PROPOSAL LOVE RING RING",
-      "price": "LKR 2100.00",
-      "image": "images/ring6.jpg",
-      "description": "This is a beautiful product with high-quality materials and craftsmanship."
-    },
-    {
-      "id": "ring7",
-      "title": "YOUR GIRL LOVE STONE RING",
-      "price": "LKR 2500.00",
-      "image": "images/ring7.jpg",
-      "description": "This is a beautiful product with high-quality materials and craftsmanship."
-    },
-    {
-      "id": "ring8",
-      "title": "TRUE LOVE PROMISED RING",
-      "price": "LKR 4000.00",
-      "image": "images/ring8.jpg",
-      "description": "This is a beautiful product with high-quality materials and craftsmanship."
-    }
-  ,
-    {
-      "id": "earring1",
-      "title": "DAINTY STONE STUD EARRINGS",
-      "price": "LKR 890.00",
-      "image": "images/earring1.jpg",
-      "description": "This is a beautiful product with high-quality materials and craftsmanship."
-    },
-    {
-      "id": "earring2",
-      "title": "DIAMOND STONE STUD EARRING",
-      "price": "LKR 720.00",
-      "image": "images/earring2.jpg",
-      "description": "This is a beautiful product with high-quality materials and craftsmanship."
-    },
-    {
-      "id": "earring3",
-      "title": "HUGGIE HOOPS EARRINGS",
-      "price": "LKR 1890.00",
-      "image": "images/earring3.jpg",
-      "description": "This is a beautiful product with high-quality materials and craftsmanship."
-    },
-    {
-      "id": "earring4",
-      "title": "SAPHIRE CRISTRIAL STUD",
-      "price": "LKR 1990.00",
-      "image": "images/earring4.jpg",
-      "description": "This is a beautiful product with high-quality materials and craftsmanship."
-    },
-    {
-      "id": "earring5",
-      "title": "DAINTY HOOPS STUD EARRINGS",
-      "price": "LKR 1720.00",
-      "image": "images/earring5.jpg",
-      "description": "This is a beautiful product with high-quality materials and craftsmanship."
-    },
-    {
-      "id": "earring6",
-      "title": "DIAMOND STONE STUD EARRING",
-      "price": "LKR 2990.00",
-      "image": "images/earring6.jpg",
-      "description": "This is a beautiful product with high-quality materials and craftsmanship."
-    },
-    {
-      "id": "earring7",
-      "title": "RUBY STONE STUD EARRINGS",
-      "price": "LKR 1690.00",
-      "image": "images/earring7.jpg",
-      "description": "This is a beautiful product with high-quality materials and craftsmanship."
-    },
-    {
-      "id": "earring8",
-      "title": "EMERALD GOLD STUD EARRING",
-      "price": "LKR 1480.00",
-      "image": "images/earring8.jpg",
-      "description": "This is a beautiful product with high-quality materials and craftsmanship."
-    }
-  ]
+[
+  {
+    "id": "chain1",
+    "title": "DAINTY LOVE STONE NECKLACE",
+    "price": "LKR 780.00",
+    "image": "images/chain1.jpg",
+    "description": "This is a beautiful product with high-quality materials and craftsmanship."
+  },
+  {
+    "id": "chain2",
+    "title": "ENCHANTED LOVE NECKLACE",
+    "price": "LKR 1410.00",
+    "image": "images/chain2.jpg",
+    "description": "This is a beautiful product with high-quality materials and craftsmanship."
+  },
+  {
+    "id": "chain3",
+    "title": "TEAR OF LOVE NECKLACE",
+    "price": "LKR 1500.00",
+    "image": "images/chain3.jpg",
+    "description": "This is a beautiful product with high-quality materials and craftsmanship."
+  },
+  {
+    "id": "chain4",
+    "title": "TEAR DROP NECKLACE",
+    "price": "LKR 1250.00",
+    "image": "images/chain4.jpg",
+    "description": "This is a beautiful product with high-quality materials and craftsmanship."
+  },
+  {
+    "id": "chain5",
+    "title": "PEARL STONE NECKLACE",
+    "price": "LKR 1310.00",
+    "image": "images/chain5.jpg",
+    "description": "This is a beautiful product with high-quality materials and craftsmanship."
+  },
+  {
+    "id": "chain6",
+    "title": "WHITE LOVE NECKLACE",
+    "price": "LKR 1840.00",
+    "image": "images/chain7.jpg",
+    "description": "This is a beautiful product with high-quality materials and craftsmanship."
+  },
+  {
+    "id": "chain7",
+    "title": "SAPPHIRE STONE NECKLACE",
+    "price": "LKR 899.00",
+    "image": "images/chain6.jpg",
+    "description": "This is a beautiful product with high-quality materials and craftsmanship."
+  },
+  {
+    "id": "chain8",
+    "title": "FLORALED STUD INTERLOCK",
+    "price": "LKR 999.00",
+    "image": "images/chain8.jpg",
+    "description": "This is a beautiful product with high-quality materials and craftsmanship."
+  },
+  {
+    "id": "chain9",
+    "title": "RUBY STONE NECKLACE",
+    "price": "LKR 1110.00",
+    "image": "images/chain9.jpg",
+    "description": "This is a beautiful product with high-quality materials and craftsmanship."
+  },
+  {
+    "id": "chain10",
+    "title": "PEARL STONE NECKLACE",
+    "price": "LKR 1710.00",
+    "image": "images/chain10.jpg",
+    "description": "This is a beautiful product with high-quality materials and craftsmanship."
+  },
+  {
+    "id": "chain11",
+    "title": "EMERALD STONE NECKLACE",
+    "price": "LKR 1530.00",
+    "image": "images/chain11.jpg",
+    "description": "This is a beautiful product with high-quality materials and craftsmanship."
+  },
+  {
+    "id": "chain12",
+    "title": "ANCIENT DROPED NECKLACE",
+    "price": "LKR 1250.00",
+    "image": "images/chain12.jpg",
+    "description": "This is a beautiful product with high-quality materials and craftsmanship."
+  },
+  {
+    "id": "ring1",
+    "title": "GOLDEN LOVE INTERLOCK RING",
+    "price": "LKR 1450.00",
+    "image": "images/ring1.jpg",
+    "description": "This is a beautiful product with high-quality materials and craftsmanship."
+  },
+  {
+    "id": "ring2",
+    "title": "PLATINUMED PROMISED RING",
+    "price": "LKR 1990.00",
+    "image": "images/ring2.jpg",
+    "description": "This is a beautiful product with high-quality materials and craftsmanship."
+  },
+  {
+    "id": "ring3",
+    "title": "EMERALD GOLDEN INTERLOCK RING",
+    "price": "LKR 1490.00",
+    "image": "images/ring3.jpg",
+    "description": "This is a beautiful product with high-quality materials and craftsmanship."
+  },
+  {
+    "id": "ring4",
+    "title": "PLATINUM LOVE PROMISE RING",
+    "price": "LKR 1780.00",
+    "image": "images/ring4.jpg",
+    "description": "This is a beautiful product with high-quality materials and craftsmanship."
+  },
+  {
+    "id": "ring5",
+    "title": "FEATHER STONE ELEGANT RING",
+    "price": "LKR 1380.00",
+    "image": "images/ring5.jpg",
+    "description": "This is a beautiful product with high-quality materials and craftsmanship."
+  },
+  {
+    "id": "ring6",
+    "title": "PROPOSAL LOVE RING RING",
+    "price": "LKR 2100.00",
+    "image": "images/ring6.jpg",
+    "description": "This is a beautiful product with high-quality materials and craftsmanship."
+  },
+  {
+    "id": "ring7",
+    "title": "YOUR GIRL LOVE STONE RING",
+    "price": "LKR 2500.00",
+    "image": "images/ring7.jpg",
+    "description": "This is a beautiful product with high-quality materials and craftsmanship."
+  },
+  {
+    "id": "ring8",
+    "title": "TRUE LOVE PROMISED RING",
+    "price": "LKR 4000.00",
+    "image": "images/ring8.jpg",
+    "description": "This is a beautiful product with high-quality materials and craftsmanship."
+  },
+  {
+    "id": "earring1",
+    "title": "DAINTY STONE STUD EARRINGS",
+    "price": "LKR 890.00",
+    "image": "images/earring1.jpg",
+    "description": "This is a beautiful product with high-quality materials and craftsmanship."
+  },
+  {
+    "id": "earring2",
+    "title": "DIAMOND STONE STUD EARRING",
+    "price": "LKR 720.00",
+    "image": "images/earring2.jpg",
+    "description": "This is a beautiful product with high-quality materials and craftsmanship."
+  },
+  {
+    "id": "earring3",
+    "title": "HUGGIE HOOPS EARRINGS",
+    "price": "LKR 1890.00",
+    "image": "images/earring3.jpg",
+    "description": "This is a beautiful product with high-quality materials and craftsmanship."
+  },
+  {
+    "id": "earring4",
+    "title": "SAPHIRE CRISTRIAL STUD",
+    "price": "LKR 1990.00",
+    "image": "images/earring4.jpg",
+    "description": "This is a beautiful product with high-quality materials and craftsmanship."
+  },
+  {
+    "id": "earring5",
+    "title": "DAINTY HOOPS STUD EARRINGS",
+    "price": "LKR 1720.00",
+    "image": "images/earring5.jpg",
+    "description": "This is a beautiful product with high-quality materials and craftsmanship."
+  },
+  {
+    "id": "earring6",
+    "title": "DIAMOND STONE STUD EARRING",
+    "price": "LKR 2990.00",
+    "image": "images/earring6.jpg",
+    "description": "This is a beautiful product with high-quality materials and craftsmanship."
+  },
+  {
+    "id": "earring7",
+    "title": "RUBY STONE STUD EARRINGS",
+    "price": "LKR 1690.00",
+    "image": "images/earring7.jpg",
+    "description": "This is a beautiful product with high-quality materials and craftsmanship."
+  },
+  {
+    "id": "earring8",
+    "title": "EMERALD GOLD STUD EARRING",
+    "price": "LKR 1480.00",
+    "image": "images/earring8.jpg",
+    "description": "This is a beautiful product with high-quality materials and craftsmanship."
+  }
+]
